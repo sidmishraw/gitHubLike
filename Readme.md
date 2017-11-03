@@ -85,5 +85,9 @@ yarn build          # bundles everthing to the `bin` directory
 
 ---
 
+> Note: Do use the `styles.css` with `github-like.bundle.js`
+
+---
+
 
 `- Sid`
